@@ -1,12 +1,15 @@
-<h1 align="center">Hola 👋, Soy Samuel Borraccini</h1>
+<h1 align="center">Hi 👋, I'm Samuel Borraccini</h1>
 <h3 align="center">Un desarrollador full-stack de Santiago de Chile</h3>
 
-<h4>Algunos de mis proyectos son: </h4>
-- 🔭 Pagina Web - Venta de planes de conectividad --> <a href="https://github.com/samuelborraccini/pagina-ecommerce">TooFast</a>
+<h3 align="left">Algunos de mi proyectos son: </h3>
+- 🧾 <a href='https://github.com/samuelborraccini/pagina-ecommerce'>Pagina Ecommerce</a></br>
+- 🌤 <a href='https://github.com/samuelborraccini/react-weatherApp'>React WeatherApp</a></br>
+- 👟 <a href='https://github.com/samuelborraccini/proyecto-showroom'>Proyecto ShowRoom</a></br> 
+- 👨🏻‍💻 <a href='https://github.com/samuelborraccini/user-api'>Api-Usuarios</a></br> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/samuelborraccini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuelborraccini" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/samuel-borraccini-939146248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuelborraccini" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
